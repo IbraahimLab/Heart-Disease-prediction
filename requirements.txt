@@ -1,0 +1,11 @@
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+pandas-profiling
+fastapi
+uvicorn
+docker
+docker-compose
