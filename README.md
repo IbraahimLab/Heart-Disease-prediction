@@ -19,19 +19,19 @@ This project is made up of a few key parts that work together:
 [cite\_start]The project uses a dataset called `heart.csv` [cite: 5] to learn about heart disease. This file contains various health details about patients, such as:
 
   **Age**: How old the patient is. [cite: 3]
-  * **Sex**: Whether the patient is male (1) or female (0). [cite: 3]
-  * [cite\_start]**Chest Pain Type (cp)**: Different kinds of chest pain. [cite: 3]
-  * [cite\_start]**Resting Blood Pressure (trestbps)**: Blood pressure when resting. [cite: 3]
-  * [cite\_start]**Serum Cholesterol (chol)**: Cholesterol levels in the blood. [cite: 3]
-  * [cite\_start]**Fasting Blood Sugar (fbs)**: Blood sugar levels after not eating. [cite: 3]
-  * [cite\_start]**Resting ECG (restecg)**: Results from an electrocardiogram. [cite: 3]
-  * [cite\_start]**Max Heart Rate Achieved (thalach)**: The highest heart rate reached during exercise. [cite: 3]
-  * [cite\_start]**Exercise-Induced Angina (exang)**: Whether chest pain occurs during exercise. [cite: 3]
-  * [cite\_start]**ST Depression (oldpeak)**: A measure related to heart strain during exercise. [cite: 3]
-  * [cite\_start]**Slope**: The slope of the ST segment during peak exercise. [cite: 3]
-  * [cite\_start]**Number of Major Vessels (ca)**: How many major blood vessels are visible. [cite: 3]
-  * [cite\_start]**Thalassemia (thal)**: A blood disorder. [cite: 3]
-  * [cite\_start]**Target**: This is the main thing we want to predict: 0 means no heart disease, 1 means heart disease. [cite: 3]
+  **Sex**: Whether the patient is male (1) or female (0). [cite: 3]
+  **Chest Pain Type (cp)**: Different kinds of chest pain. [cite: 3]
+  **Resting Blood Pressure (trestbps)**: Blood pressure when resting. [cite: 3]
+  **Serum Cholesterol (chol)**: Cholesterol levels in the blood. [cite: 3]
+  **Fasting Blood Sugar (fbs)**: Blood sugar levels after not eating. [cite: 3]
+  **Resting ECG (restecg)**: Results from an electrocardiogram. [cite: 3]
+  **Max Heart Rate Achieved (thalach)**: The highest heart rate reached during exercise. [cite: 3]
+  **Exercise-Induced Angina (exang)**: Whether chest pain occurs during exercise. [cite: 3]
+  **ST Depression (oldpeak)**: A measure related to heart strain during exercise. [cite: 3]
+  **Slope**: The slope of the ST segment during peak exercise. [cite: 3]
+  **Number of Major Vessels (ca)**: How many major blood vessels are visible. [cite: 3]
+  **Thalassemia (thal)**: A blood disorder. [cite: 3]
+  **Target**: This is the main thing we want to predict: 0 means no heart disease, 1 means heart disease. [cite: 3]
 
 ### 🧠 Training the Brain (`heart-disease-prediction-model.ipynb`)
 
