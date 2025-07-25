@@ -18,7 +18,7 @@ This project is made up of a few key parts that work together:
 
 [cite\_start]The project uses a dataset called `heart.csv` [cite: 5] to learn about heart disease. This file contains various health details about patients, such as:
 
-  * [cite\_start]**Age**: How old the patient is. [cite: 3]
+  **Age**: How old the patient is. [cite: 3]
   * [cite\_start]**Sex**: Whether the patient is male (1) or female (0). [cite: 3]
   * [cite\_start]**Chest Pain Type (cp)**: Different kinds of chest pain. [cite: 3]
   * [cite\_start]**Resting Blood Pressure (trestbps)**: Blood pressure when resting. [cite: 3]
